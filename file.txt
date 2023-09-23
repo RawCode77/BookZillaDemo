@@ -1,0 +1,2 @@
+MERN Stack Course - MongoDB, Express, React and NodeJS
+Build Full Stack Application from Scratch with React Router 6.4+, React Query, Mongoose 7+, Cloudinary, Axios
